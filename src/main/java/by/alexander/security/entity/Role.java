@@ -36,4 +36,5 @@ public enum Role {
     public Set<Permission> getPermissions() {
         return Collections.unmodifiableSet(permissions);
     }
+
 }

@@ -1,0 +1,3 @@
+INSERT INTO accounts (username, password, role, blocked) VALUES ('admin', '$2y$13$zEA5ppeBGpyHAuy5ok5KDujhrvJ9tbF.R8Wl3ep3hs.6MKvYF1xuy', 'ADMIN', 0);
+INSERT INTO accounts (username, password, role, blocked) VALUES ('editor', '$2y$13$GNV7cBlnH1ioOWruc7RvL.yJNa4.rpqCdjhB3rgh8/Izv/rEQTcW.', 'EDITOR', 0);
+INSERT INTO accounts (username, password, role, blocked) VALUES ('user', '$2y$13$hRyRmXZNlVHsyM0PQA2NeuWOgUR1HJx24ZF89XUbBPkQHtRm/sEGO', 'USER', 0);
